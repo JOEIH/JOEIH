@@ -26,6 +26,7 @@
 <br>
 <br>
 
+## GitHub Status
 <img height=170 src="https://github-readme-stats.vercel.app/api?username=JOEIH" style="vertical-align: middle;" />
 <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=JOEIH&layout=compact&langs_count=8" style="vertical-align: middle;" />
 
