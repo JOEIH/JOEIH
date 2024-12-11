@@ -24,9 +24,12 @@
 
 <div align="center" height="100px">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOEIH&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=JOEIH" />
+</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=JOEIH&layout=compact&langs_count=8&card_width=320" />
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=JOEIH&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 </div>
