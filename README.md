@@ -7,6 +7,10 @@
 
 ## About
 
+
+<br>
+<br>
+
 ## Skills
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,16 +26,8 @@
 <br>
 <br>
 
-<div align="center" height="100px">
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 src="https://github-readme-stats.vercel.app/api?username=JOEIH" />
-</a>
+<img height=170 src="https://github-readme-stats.vercel.app/api?username=JOEIH" style="vertical-align: middle;" />
+<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=JOEIH&layout=compact&langs_count=8" style="vertical-align: middle;" />
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=JOEIH&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-</div>
 
 </div>
