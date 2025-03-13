@@ -1,7 +1,4 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=190&color=gradient&text=Hi,%20I'm%20HYUN&reversal=false&textBg=false&fontSize=46&animation=fadeIn)  
-
 <br>
 <br>
 
